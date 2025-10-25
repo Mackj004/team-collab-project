@@ -1,0 +1,1 @@
+A algorithm that predicts SLA resin curing temperature. (James)
